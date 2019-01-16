@@ -16,7 +16,7 @@ This is a SPA that uses React, and both the Google/Foursquare APIs. This is a li
 
 ## API Keys:
 * In components, `Map.js` and `List.js` are entry points for the API keys. You do not need a Google Maps will send an error but default to an developer view (With watermarks) but you will require one for Foursquare
-* If you have your own API key, you can go to create an `.env` file to store your keys as an environment variable. If you have issues, both `Map.js` and `List.js` have additional string fields where you can input it manually
+* If you have your own API key, you can go to create an `.env` file to store your keys as an environment variable. If you have issues, both `Map.js` and `List.js` have additional string fields where you can input them manually
 
 
 ## Notes:
